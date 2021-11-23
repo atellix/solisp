@@ -976,6 +976,7 @@ checksum = "f497285884f3fcff424ffc933e56d7cbca511def0c9831a7f9b5f6153e3cc89b"
 [[package]]
 name = "rust_lisp"
 version = "0.2.0"
+source = "git+https://github.com/atellix/rust_lisp.git?branch=atellix#981760933276610989af8b915ddfe91634d74aa8"
 dependencies = [
  "solana-program",
 ]

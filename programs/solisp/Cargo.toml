@@ -18,4 +18,4 @@ default = []
 anchor-lang = "0.17.0"
 anchor-spl = "0.17.0"
 phf = { version = "0.10.0", features = ["macros"] }
-rust_lisp = { version = "0.2.0", path = "../../../crates/rust_lisp" }
+rust_lisp = { version = "0.2.0", git = "https://github.com/atellix/rust_lisp.git", branch = "atellix" }

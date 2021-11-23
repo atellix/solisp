@@ -5,7 +5,7 @@ use phf::phf_map;
 use anchor_spl::token::{ self, accessor::amount, Transfer };
 use anchor_lang::prelude::*;
 
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("BExCNxMXMW3nydDzuLbQjyFmdYirxeVK12buBeAVATs5");
 
 #[derive(Clone)]
 pub enum Cmd {
